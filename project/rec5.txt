@@ -1,0 +1,4 @@
+from recommendations import *
+prefs=loadMovieLens()
+rec=getRecommendations(prefs,'87')[0:15]
+print rec[0][1]
