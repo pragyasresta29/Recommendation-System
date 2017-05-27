@@ -1,7 +1,7 @@
 # Recommendation-System
 This is an attempt to create a recommendation system using Karl Pearson's coefficient and Euclidean's distance.
 
-In this project I have used an original dataset from movielens. The website is of sample purpose to show how recommendation can be shown.
+In this project I have used an original dataset from movielens. Here, the recommendation engine was built using user-user and item-item based collaborative filtering. The source code of the recommendation engine can be retrieved from the "recommendation.py" file. The website is of sample purpose to show how recommendation can be shown.
 
 ##Steps to view the working of recommendation System
 * Copy the project folder to your local server.
